@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyView">
+        <attr name="test_id" format="integer"></attr>
+        <attr name="test_name" format="String"></attr>
+        <attr name="test_bitmap" format="reference"></attr>
+
+    </declare-styleable>
+
+
+</resources>
